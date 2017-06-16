@@ -1,11 +1,11 @@
 name = "Herring Cove"
-description = "Herring Cove is ported from the jekyll theme of the same name"
+description = "Julie Golzarian is a software engineer and the founder of LiteItForward"
 license = "MIT"
-tags = ["blog", "company"]
+tags = ["liteitforward.azurewebsites.net/", "LiteItForward.com"]
 min_version = 0.20
 
 [author]
-    name = "spf13"
+    name = "Julie Golzarian"
     homepage = "http://spf13.com"
 
 # If Porting existing theme
